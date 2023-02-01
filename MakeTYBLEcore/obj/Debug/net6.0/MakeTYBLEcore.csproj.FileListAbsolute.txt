@@ -1,0 +1,15 @@
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\obj\Debug\net6.0\MakeTYBLEcore.csproj.AssemblyReference.cache
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\obj\Debug\net6.0\MakeTYBLEcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\obj\Debug\net6.0\MakeTYBLEcore.AssemblyInfoInputs.cache
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\obj\Debug\net6.0\MakeTYBLEcore.AssemblyInfo.cs
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\obj\Debug\net6.0\MakeTYBLEcore.csproj.CoreCompileInputs.cache
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\bin\Debug\net6.0\MakeTYBLEcore.exe
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\bin\Debug\net6.0\MakeTYBLEcore.deps.json
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\bin\Debug\net6.0\MakeTYBLEcore.runtimeconfig.json
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\bin\Debug\net6.0\MakeTYBLEcore.dll
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\bin\Debug\net6.0\MakeTYBLEcore.pdb
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\obj\Debug\net6.0\MakeTYBLEcore.dll
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\obj\Debug\net6.0\refint\MakeTYBLEcore.dll
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\obj\Debug\net6.0\MakeTYBLEcore.pdb
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\obj\Debug\net6.0\MakeTYBLEcore.genruntimeconfig.cache
+C:\Users\kamelong\source\TYBLE16\MakeTYBLEcore\obj\Debug\net6.0\ref\MakeTYBLEcore.dll

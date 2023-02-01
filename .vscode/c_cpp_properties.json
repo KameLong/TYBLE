@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/kamelong/AppData/Local/Arduino15/packages/sandeepmistry/hardware/nRF5/0.7.0/cores/nRF5/SDK/components/toolchain/",
+                "C:/Users/kamelong/AppData/Local/Arduino15/packages/sandeepmistry/hardware/nRF5/0.7.0/cores/nRF5/SDK/components/toolchain/CMSIS/Include",
+                "C:/Users/kamelong/AppData/Local/Arduino15/packages/sandeepmistry/hardware/nRF5/0.7.0/cores/nRF5/SDK/components/toolchain/gcc/",
+                "C:/Users/kamelong/AppData/Local/Arduino15/packages/sandeepmistry/hardware/nRF5/0.7.0/cores/nRF5/SDK/components/device/",
+                "C:/Users/kamelong/AppData/Local/Arduino15/packages/sandeepmistry/hardware/nRF5/0.7.0/cores/nRF5/SDK/components/drivers_nrf/delay/",
+                "C:/Users/kamelong/AppData/Local/Arduino15/packages/sandeepmistry/hardware/nRF5/0.7.0/cores/nRF5/SDK/components/softdevice/s130/headers/",
+                "C:/Users/kamelong/AppData/Local/Arduino15/packages/sandeepmistry/hardware/nRF5/0.7.0/cores/nRF5",
+                "C:/Users/kamelong/AppData/Local/Arduino15/packages/sandeepmistry/hardware/nRF5/0.7.0/variants/Generic",
+                "C:/Users/kamelong/AppData/Local/Arduino15/packages/sandeepmistry/hardware/nRF5/0.7.0/libraries/SPI",
+                "C:/Users/kamelong/Documents/Arduino/libraries/BLEPeripheral/src"
+            ],
+            "defines": [
+                "F_CPU=16000000",
+                "ARDUINO=10819",
+                "ARDUINO_GENERIC",
+                "ARDUINO_ARCH_NRF5",
+                "NRF51",
+                "S130",
+                "NRF51_S130",
+                "NRF5",
+                "USE_LFRC"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "compilerPath": "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
