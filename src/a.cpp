@@ -21,7 +21,7 @@
 
 void myDelay(int ms){
   for(int i=0;i<ms;i++){
-    for(volatile int j=0;j<1300;j++){
+    for(volatile int j=0;j<2*130;j++){
 
     } 
      }
@@ -45,7 +45,7 @@ void out(int a)
 
 void setup()
 {
-  NRF_POWER->RESET = 1;
+//  NRF_POWER->RESET = 1;
   setOut();
 
   // *(int32_t *)(WDT_CRV_REG) = 1;
@@ -63,25 +63,22 @@ void setup()
 
 
 }
+  uint32_t a=0;
 void loop()
 {
-  out(15);
-  myDelay(500);
+  a++;
 
   //  sd_clock_hfclk_release();
 
-  uint32_t a=0;
   out(a);
   myDelay(500);
 
 
 
 
-  __SEV();
-  __WFE();
-  __WFE();
-  while(true){
-  out(15);
-
-  }
 }
+
+void RTC1_IRQHandler(void)
+{
+
+ }
